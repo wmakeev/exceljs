@@ -17,6 +17,7 @@ spec/out/*
 
 # Tmp folder
 tmp/*
+__temp/*
 
 # WebStorm
 .idea
